@@ -37,7 +37,7 @@ the datasets (e.g., average document length, number of training/dev/test documen
 vocabulary size) and a description of the preprocessing steps that you performed.
 
 
-
+_________________________________________________________________________________________________________
 
 1 See, for example, the Large Movie Review Dataset (http://ai.stanford.edu/~amaas/data/sentiment/),
 the Cornell Movie Review Data (http://www.cs.cornell.edu/people/pabo/movie-review-data/, included
