@@ -1,5 +1,5 @@
-Repeat Assignment 2 (text classification with mostly linear classifiers), but now using
-an MLP classifier implemented (by you) in Keras/TensorFlow or PyTorch.
+## Repeat Assignment 2 (text classification with mostly linear classifiers), but now using
+## an MLP classifier implemented (by you) in Keras/TensorFlow or PyTorch.
 
 You may use different features in the MLP classifier than the ones you used in Assignment 2.
 Tunethe hyper-parameters (e.g., number of hidden layers, dropout probability) on the development
