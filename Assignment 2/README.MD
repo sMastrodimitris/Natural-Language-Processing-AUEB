@@ -38,10 +38,13 @@ vocabulary size) and a description of the preprocessing steps that you performed
 the Cornell Movie Review Data (http://www.cs.cornell.edu/people/pabo/movie-review-data/, included
 in NLTK), or the Twitter Sentiment Analysis Dataset (https://www.kaggle.com/c/twitter-sentimentanalysis2/
 data, you need to create a Kaggle account).
+
 2 Pre-trained word embeddings are available, for example, from http://nlp.stanford.edu/projects/glove/,
 https://fasttext.cc/docs/en/crawl-vectors.html, https://code.google.com/archive/p/word2vec/.
+
 3 Consider scikit-learn (http://scikit-learn.org/stable/), Weka (http://www.cs.waikato.ac.nz/ml/weka/),
 LIBSVM (http://www.csie.ntu.edu.tw/~cjlin/libsvm/).
+
 4 In single-label multi-class classification (often also called simply multi-class classification), microaveraged
 precision, micro-averaged recall, and micro-averaged F1 are all equal to accuracy. Check
 https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1.
