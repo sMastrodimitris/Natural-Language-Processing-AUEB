@@ -1,3 +1,5 @@
+## Bigram & Trigram Language Model
+
 Implement a bigram and a trigram language model for sentences, using Laplace smoothing.
 In practice, n-gram language models compute the sum of the logarithms of the n-gram probabilities of each sequence,
 instead of their product and you should do the same. Assume that each sentence starts with the pseudo-token
