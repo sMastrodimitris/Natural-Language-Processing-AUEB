@@ -1,5 +1,6 @@
-Develop a sentiment classifier for a kind of texts of your choice (e.g., tweets, product or
-movie reviews). Use an existing sentiment analysis dataset with at least two classes (e.g.,
+## Develop a sentiment classifier for a kind of texts of your choice (e.g., tweets, product or movie reviews). 
+
+Use an existing sentiment analysis dataset with at least two classes (e.g.,
 positive/negative or positive/negative/neutral).1 The classes should be mutually exclusive, i.e.,
 this is a single-label multi-class classification problem. You may use Boolean, TF, or TF-IDF
 features corresponding to words or n-grams, and/or other features. You may apply any feature
