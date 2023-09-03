@@ -21,17 +21,22 @@ separately for the training, development, and test subsets. Use three separate t
 for the training, development, and test results. In each table, use a separate row for
 each classifier (or baseline), and show the precision, recall, F1, PR-AUC scores of the
 classes in columns (four columns per class).
+
 • Macro-averaged precision, recall, F1, precision-recall AUC scores (all computed by
 averaging the corresponding scores of the previous bullet over the classes), for each
 classifier, separately for the training, development, and test subsets.4 Show these
 results by adding four more columns to the tables of the previous bullet.
+
 • For each classifier, learning curves showing macro-averaged F1
 computed on (i) the (increasingly more) training data the classifier has encountered,
 (ii) the entire development subset, (iii) the entire test subset. Show a separate diagram
 for each classifier, with three curves in each diagram.
+
 • A short description of the methods and datasets you used, including statistics about
 the datasets (e.g., average document length, number of training/dev/test documents,
 vocabulary size) and a description of the preprocessing steps that you performed.
+
+
 
 
 1 See, for example, the Large Movie Review Dataset (http://ai.stanford.edu/~amaas/data/sentiment/),
